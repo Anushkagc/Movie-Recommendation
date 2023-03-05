@@ -22,4 +22,4 @@ The code is written in a Jupyter Notebook with a Python 3.9  kernel and in addit
 
 - Collaborative Filtering Using kNN:
 
-
+![s2](https://user-images.githubusercontent.com/75270684/222945230-03541231-57f8-49ce-8799-d0eb2a0a9319.png)
