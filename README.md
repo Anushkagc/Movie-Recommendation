@@ -13,3 +13,13 @@ The code is written in a Jupyter Notebook with a Python 3.9  kernel and in addit
 - [Matplotlib](http://matplotlib.org/)
 - [Scikit-Learn](https://scikit-learn.org/)
 - [SciPy](https://scipy.org/)
+
+### Snippets:
+
+- Content Based Recommendation:
+
+![s1](https://user-images.githubusercontent.com/75270684/222944802-3eccd12c-3055-4a3e-826b-2bda32b99550.png)
+
+- Collaborative Filtering Using kNN:
+
+
