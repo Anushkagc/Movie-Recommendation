@@ -1,4 +1,3 @@
-
 # Movie Recommendation System
 
 ### This project aims to:
@@ -18,8 +17,8 @@ The code is written in a Jupyter Notebook with a Python 3.9  kernel and in addit
 
 - Content Based Recommendation:
 
-![s1](https://user-images.githubusercontent.com/75270684/222944802-3eccd12c-3055-4a3e-826b-2bda32b99550.png)
+![s22](https://user-images.githubusercontent.com/75270684/223134713-096257c5-9033-4016-b7c2-c434c86170c7.png)
 
 - Collaborative Filtering Using kNN:
 
-![s2](https://user-images.githubusercontent.com/75270684/222945230-03541231-57f8-49ce-8799-d0eb2a0a9319.png)
+![s11](https://user-images.githubusercontent.com/75270684/223134720-d17f8bfe-5d75-48d3-95a0-9cb4335651e8.png)
