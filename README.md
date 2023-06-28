@@ -10,7 +10,6 @@ The code is written in a Jupyter Notebook with a Python 3.9  kernel and in addit
 - [Pandas](http://pandas.pydata.org/)
 - [Matplotlib](http://matplotlib.org/)
 - [Scikit-Learn](https://scikit-learn.org/)
-- [SciPy](https://scipy.org/)
 
 ### Snippets:
 
